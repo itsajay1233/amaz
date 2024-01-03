@@ -193,7 +193,7 @@ span {
 .hero {
     height: 198px;
     background-image: url("main.jpg");
-    background-size: cover;
+    background-size:100%;
 
 }
 
